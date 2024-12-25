@@ -5,9 +5,12 @@ This mod adds all kinds of buildings, pads and terrains that are part of the var
 
 **Dependencies**
 
-Resurfaced 
+Resurfaced
+
 Shabby
+
 Kerbal Konstructs
+
 
 **Known bugs:**
 
