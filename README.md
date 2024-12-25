@@ -23,3 +23,10 @@ Scaling for the launchsite is a bit off, this will be fixed in a future update
 Press Control + K 
 Click New instances
 Load "SpaceX Build Site", "SpaceX Future Launch Site" and "Boca Chica Terrain"
+
+
+**Authors:**
+
+Joep (Cape Canaveral)
+
+BlackDinoShadow (Boca Chica)
